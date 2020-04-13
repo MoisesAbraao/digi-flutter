@@ -2,7 +2,7 @@
 
 Projetinho simples para demonstração de como desenvolver um App usando o Flutter.
 
-![Flutter Of Legends](uiapp.png?style=centerme)
+![Flutter Of Legends](app.png?style=centerme)
 
 ## Como rodar o Projeto
 
